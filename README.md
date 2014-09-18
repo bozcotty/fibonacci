@@ -37,4 +37,9 @@ Within the fib.rb file in the lib folder, class Fib introduces a class method wh
 
 * Scott Hale (bozcotty)
 
+## Collaborators and Sources
+
+Sunny Mittal (sunny-mittal)
+http://meowist.github.io/blog/2013/03/02/fibonacci-meets-ruby/
+
 
