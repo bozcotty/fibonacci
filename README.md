@@ -18,23 +18,6 @@ By [Scott Hale]
 require 'fib.rb'
 ```
 
-```ruby
-gem 'my_example_gem'
-```
-
-Run the following command to install it:
-
-```console
-bundle install
-```
-
-Run the generator:
-
-```console
-rails generate my_example_gem:install
-```
-
-
 ## Usage
 
 To use Fibonacci, just pass the nth number you're after into the Fib.nth class method
