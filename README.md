@@ -5,10 +5,10 @@
 
 -->
 
-By [Scott Hale]
+By Scott Hale
 
 ## Description
-**Fibonacci** Quickly find the nth number* in the Fibonacci sequence (1,1 style). a class method Fib has been created.
+**Fibonacci** Quickly find the nth number* in the Fibonacci sequence (1,1 style).
 
 *Note: Because of the recursion used in the calculation, passing a number much bigger than 20 could take quite a while to calculate...not recommended!
 
