@@ -1,3 +1,4 @@
+#create class method
 class Fib
   def self.nth(x)
     if x == 1 || x == 2
